@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/pngs">
+        <file>pngs/Topaz.png</file>
+        <file>pngs/Emerald.png</file>
+        <file>pngs/Ruby.png</file>
+        <file>pngs/Female.png</file>
+        <file>pngs/daVinci.png</file>
+        <file>pngs/daVinciDiamond.png</file>
+        <file>pngs/MonaLisa.png</file>
+    </qresource>
+</RCC>
